@@ -1,0 +1,1 @@
+print("Winston Churchill has a quote that's one of my favorites: \"That is the kind of arrant pedantry up with which I shall not put.\"")
